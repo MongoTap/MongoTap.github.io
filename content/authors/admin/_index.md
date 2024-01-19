@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yanlong Huang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yanlong
+last_name: Huang
 
 # Status emoji
 status:
@@ -17,34 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Electronic and Science Technology of China
+    url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Finance Technology, Spatial-Temporal forecasting and Software Development.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence (Natural Language Processing)
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Undergraduate student in Software Engineering
+      institution: UESTC
+      year: 2022
+    - course: Master student in Artificial Intelligence
+      institution: UESTC
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,7 +98,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=2xgc0N0AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -120,5 +116,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yanlong Huang, currently in my second year of pursuing a master's degree with a keen interest in financial technology (FinTech) and natural language processing. In my first year, I had the privilege of presenting a paper in the Student Abstract track at AAAI 2023, and I currently have a paper under review for the Information Systems Research journal. Additionally, I am gearing up to submit a paper about FinTech to ACL 2024.
+
+My academic journey has been recognized with the Graduate Freshman Scholarship in 2022 and further accolades in 2023, including the Academic Master's Degree First-Class Scholarship and the Tencent Corporate Scholarship. Alongside these achievements, I have actively participated in some AI competitions in China for two consecutive years, securing notable rankings such as second and third place. This multifaceted experience underscores my dedication to scholarly pursuits and the dynamic intersection of technology and artificial intelligence.
 {style="text-align: justify;"}
