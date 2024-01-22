@@ -86,7 +86,7 @@ sections:
         - title: Summer workshop exchange student
           company: University of Singapore
           company_url: ''
-          company_logo: org-gc
+          company_logo: nus
           location: Singapore
           date_start: '2019-07-15'
           date_end: '2019-08-05'
