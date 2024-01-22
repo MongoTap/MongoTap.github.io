@@ -56,7 +56,7 @@ skills:
         description: ''
         percent: 80
         icon: golang
-        icon_pack: fas
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 70

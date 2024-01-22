@@ -66,15 +66,15 @@ sections:
           company: UESTC
           company_url: ''
           company_logo: org-x
-          location: SiChuan·China
+          location: SiChuan, China
           date_start: '2022-09-01'
           date_end: ''
           description: Focus on deep learning and software development
         - title: Operations Development Engineer
           company: Tencent
           company_url: ''
-          company_logo: org-gc
-          location: ShenZhen·China
+          company_logo: tencent
+          location: ShenZhen, China
           date_start: '2021-01-19'
           date_end: '2021-07-19'
           description: |2-
@@ -83,6 +83,14 @@ sections:
               * Cloud Operation and Maintenance
               * Operation and maintenance tool development
               * Data analysis
+        - title: Summer workshop exchange student
+          company: University of Singapore
+          company_url: ''
+          company_logo: org-gc
+          location: Singapore
+          date_start: '2019-07-15'
+          date_end: '2019-08-05'
+          description: Learning and Application of the Internet of Things
     design:
       columns: '2'
   - block: accomplishments
