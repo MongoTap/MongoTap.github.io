@@ -260,8 +260,8 @@ sections:
         - 'Everyday 10:00 to 19:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '104.11'
-        longitude: '30.68'  
+        latitude: '30.68'
+        longitude: '104.11'  
       contact_links:
         - icon: qq
           icon_pack: fab
