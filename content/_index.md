@@ -65,7 +65,7 @@ sections:
         - title: Master student
           company: UESTC
           company_url: ''
-          company_logo: org-x
+          company_logo: uestc
           location: SiChuan, China
           date_start: '2022-09-01'
           date_end: ''

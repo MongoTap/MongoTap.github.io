@@ -97,7 +97,7 @@ social:
     icon_pack: fab
     link: https://github.com/MongoTap
   - icon: qq
-    icon_pack: fas
+    icon_pack: fab
     link: https://qm.qq.com/q/Iu5scEP6YS
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
